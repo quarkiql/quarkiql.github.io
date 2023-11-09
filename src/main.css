@@ -103,7 +103,7 @@ footer{
 }
 @media (min-width: 768px) {
     .gallery-main-image {
-        max-width: 60%;}
+        max-width: 50%;}
     .h1 {
         font-size: 3rem;
         line-height: 1;
