@@ -1,0 +1,24 @@
+###################################
+# OS
+###################################
+
+# Mac OS
+**/.DS_Store
+.DS_Store
+
+# Windows
+# Folder config file
+Desktop.ini
+
+###################################
+# IDE
+###################################
+
+# VS
+.vscode
+**/.vscode
+
+# Jupyter
+**/.ipynb_checkpoints
+.ipynb_checkpoints
+__pycache__/
